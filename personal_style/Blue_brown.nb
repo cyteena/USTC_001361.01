@@ -1,0 +1,57 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[      1582,         47]
+NotebookOptionsPosition[       912,         30]
+NotebookOutlinePosition[      1356,         47]
+CellTagsIndexPosition[      1313,         44]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[StyleData[StyleDefinitions -> "Default.nb"],ExpressionUUID->"32d19ea4-7a2f-794b-b382-9efacfb049d1"],
+
+Cell[StyleData["Input"],
+ Background->RGBColor[
+  0.87, 0.94, 1],ExpressionUUID->"826514de-05db-c540-b36e-7093daca37fb"],
+
+Cell[StyleData["Output"],
+ Background->RGBColor[
+  0.94, 0.88, 0.94],ExpressionUUID->"efb8cf53-e2b8-2542-9e3f-db60062a6974"]
+},
+WindowSize->{583.5, 625.5},
+WindowMargins->{{Automatic, 119.625}, {-10.5, Automatic}},
+FrontEndVersion->"14.1 for Microsoft Windows (64-bit) (2024\:5e747\:670816\
+\:65e5)",
+StyleDefinitions->"PrivateStylesheetFormatting.nb",
+ExpressionUUID->"118ed323-20aa-3246-b65b-bfd975a26f05"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[554, 20, 104, 0, 30, 49, 0, "StyleData", "StyleDefinitions", "",ExpressionUUID->"32d19ea4-7a2f-794b-b382-9efacfb049d1"],
+Cell[661, 22, 120, 2, 62, 24, 0, "StyleData", "Input", "All",ExpressionUUID->"826514de-05db-c540-b36e-7093daca37fb"],
+Cell[784, 26, 124, 2, 66, 25, 0, "StyleData", "Output", "All",ExpressionUUID->"efb8cf53-e2b8-2542-9e3f-db60062a6974"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
