@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[     38823,       1193]
+NotebookDataLength[     38757,       1192]
 NotebookOptionsPosition[     32932,       1079]
-NotebookOutlinePosition[     33523,       1099]
-CellTagsIndexPosition[     33480,       1096]
+NotebookOutlinePosition[     33457,       1098]
+CellTagsIndexPosition[     33414,       1095]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1078,12 +1078,11 @@ Cell[BoxData[
 }, Open  ]]
 },
 ScreenStyleEnvironment->"Elegant",
-WindowSize->{583.5, 706.875},
-WindowMargins->{{Automatic, -4.125}, {Automatic, 0}},
+WindowSize->{583.5, 702.75},
+WindowMargins->{{Automatic, 0}, {Automatic, 0}},
 FrontEndVersion->"14.1 for Microsoft Windows (64-bit) (2024\:5e747\:670816\
 \:65e5)",
-StyleDefinitions->FrontEnd`FileName[{$RootDirectory, "D:", 
-   "\:7b26\:53f7\:8ba1\:7b97\:8f6f\:4ef6\:4f5c\:4e1a"}, "Blue_brown.nb", 
+StyleDefinitions->FrontEnd`FileName[{"personal_style"}, "Blue_brown.nb", 
   CharacterEncoding -> "UTF-8"],
 ExpressionUUID->"75252b96-d137-fd43-abf3-04632f5af9e7"
 ]
